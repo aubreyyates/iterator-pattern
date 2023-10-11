@@ -1,0 +1,68 @@
+# Ignore Visual Studio files
+.vscode/
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore NuGet package directory
+packages/
+
+# Ignore user-specific files and settings
+*.suo
+*.user
+*.userprefs
+
+# Ignore logs and other generated files
+*.log
+*.log.*
+*.bak
+*.cache
+*.sqlite
+*.dat
+Thumbs.db
+*.db
+
+# Ignore configuration files
+appsettings.json
+
+# Ignore user-specific Visual Studio files
+.vscode/
+.vs2019/
+.vs2017/
+.vs2015/
+.vs2013/
+.vs2012/
+.vscode/
+
+# Ignore .NET Core artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore Rider-specific files
+.idea/
+*.sln.iml
+
+# Ignore Rider and Resharper folders
+_ReSharper*/
+.idea/
+
+# Ignore macOS Finder files
+.DS_Store
+
+# Ignore JetBrains Rider files
+.idea/
+
+# Ignore Rider and Resharper folders
+_ReSharper*/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
